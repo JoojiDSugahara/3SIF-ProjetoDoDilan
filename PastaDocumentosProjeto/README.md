@@ -1,1 +1,1 @@
-# Guarde nesta pasta os documentos de especificacao do projeto (planos, modelos de dados, UML, etc.)
+# Guarda aqui somento programas de computador escritos com um editor de linguagem(.java, .c, .php, .sql, etc.) - formatos .DOC, .XLSX, .PPT, .ASTAH
