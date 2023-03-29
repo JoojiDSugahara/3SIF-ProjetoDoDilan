@@ -1,0 +1,1 @@
+Guarde nesta pasta documentos que explicam requisitos que nao serao atendidos na primeira versão do sistema
