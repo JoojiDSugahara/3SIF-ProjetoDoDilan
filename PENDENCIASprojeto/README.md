@@ -1,1 +1,1 @@
-Guarde nesta pasta documentos que explicam requisitos que nao serao atendidos na primeira versão do sistema
+# Guarda aqui somento programas de computador escritos com um editor de linguagem(.java, .c, .php, .sql, etc.) - formatos .DOC, .XLSX, .PPT, .ASTAH

@@ -1,1 +1,1 @@
-# Guarda aqui somento programas de computador escritos com um editor de linguagem(.java, .c, .php, .sql, etc.)
+# Guarda aqui somento programas de computador escritos com um editor de linguagem(.java, .c, .php, .sql, etc.) - formatos .DOC, .XLSX, .PPT, .ASTAH
